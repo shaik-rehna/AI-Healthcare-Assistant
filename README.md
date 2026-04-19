@@ -116,6 +116,12 @@ evaluation/terminal_log.txt
 
 ---
 
+## UI
+* ![UI](UI/UI_A.png)
+* ![UI](UI/UI_B.png)
+
+---
+
 ## Run
 
 Install:
@@ -138,6 +144,4 @@ python -m evaluation.evaluate
 
 ---
 
-## UI
-* ![UI](UI/UI_A.png)
-* ![UI](UI/UI_B.png)
+
